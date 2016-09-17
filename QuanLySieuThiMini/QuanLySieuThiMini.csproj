@@ -35,10 +35,6 @@
     <Reference Include="Commons">
       <HintPath>C:\Users\Tran Dac\OneDrive\2016-2017\CNPM\Do An\dll\Commons.dll</HintPath>
     </Reference>
-    <Reference Include="DevComponents.DotNetBar2, Version=9.0.0.0, Culture=neutral, PublicKeyToken=e116d99a00eca71b, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Users\Tran Dac\OneDrive\2016-2017\QLDAPM\DoAn\DevComponents.DotNetBar2.dll</HintPath>
-    </Reference>
     <Reference Include="DevExpress.Data.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Utils.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
