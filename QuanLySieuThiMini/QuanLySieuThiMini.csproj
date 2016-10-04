@@ -32,29 +32,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
-      <HintPath>..\..\..\..\Quan Ly Du An Phan Mem\Dev Component\DevExpress.Data.v15.1.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\Quan Ly Du An Phan Mem\Dev Component\DevExpress.Printing.v15.1.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
-      <HintPath>..\..\..\..\Quan Ly Du An Phan Mem\Dev Component\DevExpress.Utils.v15.1.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\Quan Ly Du An Phan Mem\Dev Component\DevExpress.XtraBars.v15.1.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
-      <HintPath>..\..\..\..\Quan Ly Du An Phan Mem\Dev Component\DevExpress.XtraEditors.v15.1.dll</HintPath>
-    </Reference>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="PerpetuumSoft.Reporting">
-      <HintPath>..\..\dll\PerpetuumSoft.Reporting.dll</HintPath>
+      <HintPath>C:\Users\Tran Dac\OneDrive\2016-2017\CNPM\Do An\dll\PerpetuumSoft.Reporting.dll</HintPath>
     </Reference>
     <Reference Include="PerpetuumSoft.Reporting.Designer.RibbonUI">
-      <HintPath>..\..\dll\PerpetuumSoft.Reporting.Designer.RibbonUI.dll</HintPath>
+      <HintPath>C:\Users\Tran Dac\OneDrive\2016-2017\CNPM\Do An\dll\PerpetuumSoft.Reporting.Designer.RibbonUI.dll</HintPath>
     </Reference>
     <Reference Include="PerpetuumSoft.Reporting.Export.Pdf">
-      <HintPath>..\..\dll\PerpetuumSoft.Reporting.Export.Pdf.dll</HintPath>
+      <HintPath>C:\Users\Tran Dac\OneDrive\2016-2017\CNPM\Do An\dll\PerpetuumSoft.Reporting.Export.Pdf.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
