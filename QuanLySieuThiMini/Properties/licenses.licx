@@ -1,5 +1,6 @@
 DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7fc7bfca2443de66
-DevExpress.XtraTabbedMdi.XtraTabbedMdiManager, DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
 PerpetuumSoft.Reporting.Designer.ReportDesigner, PerpetuumSoft.Reporting, Version=4.4.0.0, Culture=neutral, PublicKeyToken=8a6ae0a3e67829b5
-DevExpress.XtraBars.BarManager, DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
 DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraBars.BarManager, DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraTabbedMdi.XtraTabbedMdiManager, DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraBars.Navigation.TileNavPane, DevExpress.XtraBars.v15.1, Version=15.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
