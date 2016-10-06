@@ -1,0 +1,15 @@
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\bin\Debug\QuanLySieuThiMini.exe.config
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\bin\Debug\QuanLySieuThiMini.exe
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\bin\Debug\QuanLySieuThiMini.pdb
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.csprojResolveAssemblyReference.cache
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.Properties.Resources.resources
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.WaitForm1.resources
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.csproj.GenerateResource.Cache
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.exe.licenses
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.exe
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.pdb
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.frmMain.resources
+E:\Learning\Cong_Nghe_Phan_Mem\Do_An\QuanLySieuThi\QuanLySieuThiMini\obj\Debug\QuanLySieuThiMini.KhachHang_NCC.frmKhachHangNCC.resources
